@@ -25,11 +25,11 @@ Odpowiedź:  ... Tak, każdy rodzaj pętli jest wymienny.
 
 ## Zadanie 2-2-4:
 Pytanie:    *Jak wpływa na działanie układu zwiększenie wartości stałej LED_T (np. do 100 ms)?*  
-Odpowiedź:  ...
+Odpowiedź:  ...Zwiększenie wartości stałej LED_T sprawia, że świeci ona dłużej.
 
 ## Zadanie 2-3-1:
 Pytanie:    *Jakie niedogodności z punktu widzenia kierowców są obecne w programie sterującym światłami?*  
-Odpowiedź:  ...
+Odpowiedź:  ...Nacisniecie przycisku może spowodować gwałtowne hamowanie poprzez nagłą zmianę sygnalizacji, bądź tak jak to ma często miejsce w rzeczywistości przejazd dużą prędkością podczas wyświetlenia sygnalu "żółtego".
 
 ## Zadanie 2-3-2:
 Pytanie:    *Czy możliwe jest sterowanie stanem niskim (LOW) diod LED?*  
