@@ -33,7 +33,7 @@ Odpowiedź:  ...Nacisniecie przycisku może spowodować gwałtowne hamowanie pop
 
 ## Zadanie 2-3-2:
 Pytanie:    *Czy możliwe jest sterowanie stanem niskim (LOW) diod LED?*  
-Odpowiedź:  ...
+Odpowiedź:  Tak, sterowanie staniem niskim diody LED jest możliwe. Może to się odbyć na zasadzie porównania stanu do przekaźnika np załączając przekaźnik poprzez stan wysoki.
 
 # Zadania rozszerzajace
 ## Zadanie 3-1:

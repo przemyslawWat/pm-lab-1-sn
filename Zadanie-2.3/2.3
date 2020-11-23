@@ -8,7 +8,7 @@
 
 #define PED_BUTTON 2
 
-#define CHANGE_TIME 100000
+#define CHANGE_TIME 10000
 #define STATE_1_TIME 10000
 #define STATE_2_TIME 1000
 #define STATE_3_TIME 7000
@@ -44,8 +44,8 @@ void loop()
     digitalWrite(CAR_GREEN, HIGH);
     digitalWrite(CAR_YELLOW, LOW);
     digitalWrite(CAR_RED, LOW);
-    digitalWrite(CAR_RED, HIGH);
-    digitalWrite(CAR_GREEN, LOW);
+    digitalWrite(PED_RED, HIGH);
+    digitalWrite(PED_GREEN, LOW);
     if (((millis() - changeTime) > STATE_1_TIME) || (state == HIGH))
     {
       lightState = YELLOW;
@@ -58,9 +58,9 @@ void loop()
     digitalWrite(CAR_RED, HIGH);
     digitalWrite(PED_RED, HIGH);
     digitalWrite(PED_GREEN, LOW);
-    if((millis() - changeTime) < STATE_2_TIME)
+    if((millis() - changeTime) < STATE_4_TIME)
     {
-      lightState = RED;
+      lightState = GREEN;
       changeTime = millis();
     }
     break;
