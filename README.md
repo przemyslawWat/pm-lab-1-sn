@@ -17,7 +17,7 @@ Odpowiedź:  ...Efektem działania programu jest zmiana stanu diody wbudowanej w
 
 ## Zadanie 2-2-2:
 Pytanie:    *Czy zamienienie kolejności podłączenia diody LED i rezystora ma znaczenie?*  
-Odpowiedź:  .  
+Odpowiedź:  .  W programie nie ma to znaczenia jednak nalezy podlaczac tak aby prad plynal najpierw przez rezystor
 
 ## Zadanie 2-2-3:
 Pytanie:    *Czy każdy rodzaj pętli jest wymienny (zawsze można zastąpić jedną konstrukcję drugą)?*  
