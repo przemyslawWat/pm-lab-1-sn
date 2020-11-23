@@ -17,7 +17,7 @@ Odpowiedź:  ...Efektem działania programu jest zmiana stanu diody wbudowanej w
 
 ## Zadanie 2-2-2:
 Pytanie:    *Czy zamienienie kolejności podłączenia diody LED i rezystora ma znaczenie?*  
-Odpowiedź:  . Nie ma to znaczenia ze względu na zasadę zachowania ładunku w polaczeniu szeregowym obwodu
+Odpowiedź:  . Nie ma to znaczenia ze względu na zasadę zachowania ładunku w polaczeniu szeregowym.
 
 ## Zadanie 2-2-3:
 Pytanie:    *Czy każdy rodzaj pętli jest wymienny (zawsze można zastąpić jedną konstrukcję drugą)?*  
