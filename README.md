@@ -21,7 +21,7 @@ Odpowiedź:  . Nie ma to znaczenia ze względu na zasadę zachowania ładunku w 
 
 ## Zadanie 2-2-3:
 Pytanie:    *Czy każdy rodzaj pętli jest wymienny (zawsze można zastąpić jedną konstrukcję drugą)?*  
-Odpowiedź:  ...
+Odpowiedź:  ... Tak, każdy rodzaj pętli jest wymienny.
 
 ## Zadanie 2-2-4:
 Pytanie:    *Jak wpływa na działanie układu zwiększenie wartości stałej LED_T (np. do 100 ms)?*  
