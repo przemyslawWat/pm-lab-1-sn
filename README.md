@@ -13,11 +13,11 @@ Grupa studencka:            WEL18DE1S1
 # Pytania do zadań z instrukcji
 ## Zadanie 2-2-1a:
 Pytanie:    *Jaki jest efekt działania programu?*  
-Odpowiedź:  ...Zmienia stan diody 
+Odpowiedź:  ...Efektem działania programu jest zmiana stanu diody wbudowanej w Arduino
 
 ## Zadanie 2-2-2:
 Pytanie:    *Czy zamienienie kolejności podłączenia diody LED i rezystora ma znaczenie?*  
-Odpowiedź:  ...   
+Odpowiedź:  ..  
 
 ## Zadanie 2-2-3:
 Pytanie:    *Czy każdy rodzaj pętli jest wymienny (zawsze można zastąpić jedną konstrukcję drugą)?*  
